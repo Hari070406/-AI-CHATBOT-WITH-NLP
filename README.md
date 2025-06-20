@@ -19,3 +19,5 @@ In this project, the code is structured using the Chat class and the reflections
 In conclusion, this chatbot project is a good introduction to natural language processing and basic conversational systems. It is simple, effective, and helps in learning how machines can be programmed to understand and respond to human language. The chatbot is fully functional within the limits of predefined rules and provides a solid base for building more advanced conversational agents in the future. This project has not only improved my Python skills but also increased my interest in the field of AI and NLP.
 
 *OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/657f7288-b346-4f13-bd7d-ec12f7376df1)
